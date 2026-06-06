@@ -422,3 +422,9 @@ footer{
 .profile.cristian p{
   text-align:justify;
 }
+
+.mini.team{
+    text-decoration:none;
+    color:white;
+    display:block;
+}
