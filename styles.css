@@ -485,3 +485,23 @@ footer{
   gap:28px !important;
   align-items:center !important;
 }
+
+.video-feature{
+  display:grid !important;
+  grid-template-columns:1fr 1fr !important;
+  gap:32px !important;
+  align-items:center !important;
+  padding:36px !important;
+  border-radius:22px !important;
+}
+
+.big-video{
+  width:100% !important;
+  height:320px !important;
+  border:none !important;
+  border-radius:18px !important;
+}
+
+.video-grid{
+  margin-top:35px !important;
+}
