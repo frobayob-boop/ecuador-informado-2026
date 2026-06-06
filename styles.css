@@ -396,3 +396,29 @@ footer{
   .section-head h2{font-size:24px}
   .profile img,.profile.nicolaza img{width:210px;height:210px}
 }
+
+.profile.cristian{
+  display:grid;
+  grid-template-columns:255px 1fr;
+  gap:28px;
+  align-items:center;
+  border-left:0;
+  border-radius:22px;
+  padding:32px;
+  background:linear-gradient(135deg, rgba(14,39,66,.98), rgba(4,13,25,.98));
+  border:1px solid rgba(212,175,55,.55);
+}
+
+.profile.cristian img{
+  width:255px;
+  height:255px;
+  object-fit:cover;
+  object-position:center top;
+  border-radius:50%;
+  border:5px solid #00a8ff;
+  outline:4px solid rgba(212,175,55,.55);
+}
+
+.profile.cristian p{
+  text-align:justify;
+}
