@@ -505,3 +505,43 @@ footer{
 .video-grid{
   margin-top:35px !important;
 }
+
+.video-feature{
+  display:grid !important;
+  grid-template-columns:1fr 1fr !important;
+  gap:32px !important;
+  align-items:center !important;
+}
+
+.big-video{
+  width:100% !important;
+  height:320px !important;
+  border:none !important;
+  border-radius:18px !important;
+}
+
+.video-grid{
+  margin-top:35px !important;
+}
+
+.mini.team{
+  min-height:285px !important;
+  height:auto !important;
+  padding:10px !important;
+  display:flex !important;
+  flex-direction:column !important;
+  justify-content:space-between !important;
+  overflow:hidden !important;
+}
+
+.mini.team iframe{
+  width:100% !important;
+  height:220px !important;
+  border:none !important;
+  border-radius:12px !important;
+}
+
+.mini.team b{
+  font-size:14px !important;
+  margin-top:10px !important;
+}
