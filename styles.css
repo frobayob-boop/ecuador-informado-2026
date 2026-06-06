@@ -472,3 +472,16 @@ footer{
   margin-top:10px !important;
   display:block !important;
 }
+.big-video{
+  width:100% !important;
+  height:320px !important;
+  border:none !important;
+  border-radius:22px !important;
+}
+
+.video-feature{
+  display:grid !important;
+  grid-template-columns:1fr 1fr !important;
+  gap:28px !important;
+  align-items:center !important;
+}
