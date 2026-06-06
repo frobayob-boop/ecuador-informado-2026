@@ -1,0 +1,16 @@
+ECUADOR INFORMADO - NUEVA VERSIÓN
+
+Archivos incluidos:
+- index.html
+- styles.css
+- assets/
+
+Novedades:
+- Botón TikTok Informa.
+- Perfil de Sally Galarza Gómez con fotografía.
+- Sección Nuestro Equipo.
+- Video destacado titulado "NUESTRO EQUIPO".
+- Hashtags: #PeriodismoEnAcción #ComunicaciónEnLínea #HistoriasQueContar.
+- Video de actualidad incrustado desde YouTube.
+
+Actualización: se retiraron María Cristina Junco Noboa, Cristhian Jinsop Macías Mendoza y Bryan Antonio García Balseca de la sección Nuestro Equipo. Se agregó a Nicolaza Leonor Villarreal Castro con fotografía optimizada y carta de presentación.
